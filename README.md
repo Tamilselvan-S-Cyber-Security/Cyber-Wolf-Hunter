@@ -23,6 +23,6 @@ Cyber Wolf Hunter is a powerful, easy-to-use Python package designed for compreh
 
 ### From Source
 ```bash
-git clone https://github.com/Tamilselvan-S-Cyber-Security/cyber-wolf-hunter.git
+git clone https://github.com/Tamilselvan-S-Cyber-Security/Cyber-Wolf-Hunter.git
 cd cyber-wolf-hunter
 pip install -e .
